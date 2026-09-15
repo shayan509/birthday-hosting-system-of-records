@@ -4,6 +4,8 @@ okf_version: "0.2"
 
 # Birthday Hosting System of Record
 
-* [What a Knowledge System of Record is](what-is-a-ksor.md) - The authoritative, governed knowledge layer humans, agents and software operate from.
-* [The governance ladder](governance-ladder.md) - Level 0 works immediately; a project climbs only as far as its domain needs.
-* [Surfaces](surfaces/)
+* [Age group frameworks](age-group-frameworks/)
+* [Catering and cakes](catering-and-cakes/)
+* [Entertainment and logistics](entertainment-and-logistics/)
+* [Planning and budgeting](planning-and-budgeting/)
+* [Venues and locations](venues-and-locations/)

@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "build_id": "sha256:8ba44ba41ab657324530425505b573ef95c3544c51c2bfb868df66a70bccf7bf",
+  "build_id": "sha256:6eb959e0539b14529d088c5e6ed17c5c6221b83fedba1f710d4ce3f3a7b7878d",
   "ksor_version": "0.0.60",
   "okf": {
     "version": "0.2",
@@ -8,11 +8,11 @@
     "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
   },
   "source_commit": "000beb4222ccf92751175a98391e5df51cb795cc",
-  "dirty": false,
-  "as_of": "2026-09-14T13:35:45.171Z",
+  "dirty": true,
+  "as_of": "2026-09-15T14:31:12.477Z",
   "drafts": "hidden",
   "instance_sha256": "e5beececeac7eb242dcebe527f61f6b5b8019125650558d53894c2734655b82a",
-  "policy_sha256": "da9bfda3317fd93b444da87840d36a19d90d699741a27a8a898ad39aaf8fd37a",
+  "policy_sha256": "fabd2e5241a65568dd219e9ad126f600472edee7a89f9ec8c5ac416b69157a3d",
   "people_sha256": "4a5a12bf22eae4a439ed3736b81ebfc83681b0d437cc7ab8813d25ea9eaee5b2",
   "ledger_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "ledger_entries": [],
@@ -26,8 +26,8 @@
   },
   "documents": [
     {
-      "path": "governance-ladder.md",
-      "sha256": "c0dc26f31fcbb19128db8bd3e8aca068439814a784e889bf5c35827fc43479a0",
+      "path": "age-group-frameworks/adult-milestones.md",
+      "sha256": "6beb936ebbb63229c02868f3375629b24eee72eab95a18374c93d3e74e7f2197",
       "status": "stable",
       "audience": [
         "public"
@@ -37,8 +37,8 @@
       ]
     },
     {
-      "path": "surfaces/for-agents.md",
-      "sha256": "1ab26915897ba587518a50fa811b54898acbd09967f76f9ccbf684e58256a49b",
+      "path": "age-group-frameworks/kids-parties.md",
+      "sha256": "ab12b82ed848c5d4aabe91e705072c224c9a5cfe5bb3009d6624f09cd36a0e41",
       "status": "stable",
       "audience": [
         "public"
@@ -48,8 +48,8 @@
       ]
     },
     {
-      "path": "surfaces/for-people.md",
-      "sha256": "3cb26786225dedca5d871f9bb3dbc5a0913c7fec870c34aeae52862b31fc56ae",
+      "path": "age-group-frameworks/teens-and-young-adults.md",
+      "sha256": "fc4321708c6f092ecf6a9f13816faaac1d5675df3383d0354e21d64dfaf57046",
       "status": "stable",
       "audience": [
         "public"
@@ -59,8 +59,8 @@
       ]
     },
     {
-      "path": "surfaces/overview.md",
-      "sha256": "d35e5c61df23ffc83d2542b6501fde1b989c3e23b846273d7f969af2e6edd4c2",
+      "path": "age-group-frameworks/toddlers-and-first-birthdays.md",
+      "sha256": "24ea896dde8c54ce3f6125b3e9562c724ee24298ddea98933e514c930d761c93",
       "status": "stable",
       "audience": [
         "public"
@@ -70,8 +70,118 @@
       ]
     },
     {
-      "path": "what-is-a-ksor.md",
-      "sha256": "2b2139295ff479719bcd02c7ba5eda6ea39d408c34ee4cb7bd6528ff7f1b90e4",
+      "path": "catering-and-cakes/custom-cakes-and-bakeries.md",
+      "sha256": "7a8d9c565e1ce4422a576915a2a11ebe67d5c998bc6d77239f5ff7dd988671b1",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "catering-and-cakes/karachi-menu-engineering.md",
+      "sha256": "f06a35a2108d5b667f998fa173615f578133b9581c252d5bffa1497ea2d30282",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "catering-and-cakes/portion-calculator-and-safety.md",
+      "sha256": "6fc9310b0624622ed167c6959c8ab381b63f7bf6601b232097304fd07f39b49a",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "entertainment-and-logistics/decor-themes-and-setup.md",
+      "sha256": "cc97201cc47e749f993d0a760aa14a740235a1816af60f9f5702adc5a4d7dbeb",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "entertainment-and-logistics/karachi-contingency-planning.md",
+      "sha256": "9ceeec3186ca02862420c67bee1a17bb310b9c29dd370a1248af8ca481955ed3",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "entertainment-and-logistics/party-games-and-activities.md",
+      "sha256": "0336c81967a31ce07ad60e1a2da0761793a717a1d335ac2b00599b758cc641e7",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "planning-and-budgeting/budget-tiers-and-guest-counts.md",
+      "sha256": "2f7574ec868ff242a72cddfd31064e6b50a0c699f2da1f5a199e173d0a207c93",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "planning-and-budgeting/guest-list-and-invitations.md",
+      "sha256": "a420358e85b493e84ba0ab82ad3809695c18c672782e5ab3cc3ab1c6ec641d17",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "planning-and-budgeting/master-timeline-checklist.md",
+      "sha256": "1e113778d4ae468a29d8875965e9327bf264fd509e90539c81fee1ef6cfe3a5d",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "venues-and-locations/karachi-neighborhood-guide.md",
+      "sha256": "375c34de94184ca836001e3a3c699d2c805d06daa3b362d053fb720673e4126d",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "venues-and-locations/venue-types-and-selection.md",
+      "sha256": "cfb746d981ce81a9ccc0d4a540c383a37e994e06a7cf951ced8d85b41f3f057a",
       "status": "stable",
       "audience": [
         "public"
@@ -81,28 +191,39 @@
       ]
     }
   ],
-  "companions": [
-    {
-      "path": "what-is-a-ksor.summary.md",
-      "sha256": "6e28d107e4903f124ff5eb7b82ca8edbf63c4ba6a20ccd2efdf07a72a2481df5"
-    }
-  ],
+  "companions": [],
   "assets": [],
   "indexes": [
     {
-      "path": "index.md",
-      "sha256": "c88e662556de35374a97d3825fbeb200411db1bcd4129b4faf037431ba73fbda"
+      "path": "age-group-frameworks/index.md",
+      "sha256": "b36e6419ed44f512ca02c7ac61330da1bcd451db81a872666c45881130a42b35"
     },
     {
-      "path": "surfaces/index.md",
-      "sha256": "e82913fbd744929824ec494cd87d50d1451856df0d7d321d51df2b7be773314c"
+      "path": "catering-and-cakes/index.md",
+      "sha256": "4833f6bd7a013564d3c80786b70cd880693c5ef71520336719d33be320f54062"
+    },
+    {
+      "path": "entertainment-and-logistics/index.md",
+      "sha256": "2f2443dc691758c4e666e39798d1195392453b87dd541d677a728be22c1f27b1"
+    },
+    {
+      "path": "index.md",
+      "sha256": "c7704091ae19038eedb2b8eb7103dd858fa67b6c26d0760b08221ca12bf9015a"
+    },
+    {
+      "path": "planning-and-budgeting/index.md",
+      "sha256": "1383c810d68e82b2f2685aa1408611be8ae7c50ce404904e3d720b7d4ce8faf5"
+    },
+    {
+      "path": "venues-and-locations/index.md",
+      "sha256": "6d0a4a2f7dd92c56ff78fe7f17c30055bdd0d7445c1972e9a05234817fcf8753"
     }
   ],
   "bundles": [
     {
       "viewer": "public",
-      "sha256": "3b0e1a5445cc8c4c354245d759c40c0cd8dccb1a65174bf351872d45ff25c9a2",
-      "files": 8
+      "sha256": "c025dfdab46786373ff840377db805612e5c1f3aab9e8a0dbeb5cabb68b95b2b",
+      "files": 21
     }
   ]
 }
